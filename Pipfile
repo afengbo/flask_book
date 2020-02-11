@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 wtforms = "*"
+flask-sqlalchemy = {index = "http://pypi.douban.com/simple/",version = "*"}
+flask-sqlchemy = "*"
+sqlchemy = "*"
 
 [requires]
 python_version = "3.6"

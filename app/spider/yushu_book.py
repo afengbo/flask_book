@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 # Date: '2020/02/09 15:49'
 
-from httper import HTTP
 from flask import current_app
+
+from app.libs.httper import HTTP
 
 
 class YuShuBook:

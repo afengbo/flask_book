@@ -4,3 +4,4 @@
 # 比较机密的配置，不要上传到git
 
 DEBUG = True
+SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:111111@localhost:3306/yushu'

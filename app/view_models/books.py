@@ -7,7 +7,7 @@ class BookViewModel:
         self.title = data['title']
         self.publisher = data['publisher']
         self.pages = data['pages']
-        self.authors = "、".join(data['title'])
+        self.authors = "、".join(data['author'])
         self.price = data['price']
         self.summary = data['summary']
         self.image = data['image']
@@ -56,7 +56,7 @@ class BookCollection:
 #             "title": data['title'],
 #             "publisher": data['publisher'],
 #             "pages": data['pages'] or "",
-#             "authors": "、".join(data['title']),
+#             "authors": "、".join(data['authors']),
 #             "price": data['price'],
 #             "summary": data['summary'] or "",
 #             "image": data['image'],

@@ -5,3 +5,4 @@
 
 DEBUG = True
 SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:111111@localhost:3306/yushu'
+SECRET_KEY = 'QAZPLMXCVBN'

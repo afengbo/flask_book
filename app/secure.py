@@ -5,7 +5,7 @@
 
 DEBUG = True
 SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:111111@localhost:3306/yushu'
-SECRET_KEY = 'QAZPLMXCVBN'
+SECRET_KEY = 'XXX'
 
 # Email 配置
 MAIL_SERVER = 'smtp.qq.com'

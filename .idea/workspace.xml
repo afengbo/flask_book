@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef7c02c6-fe84-4fbd-ad77-c85cf4c3d306" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pipfile" afterPath="$PROJECT_DIR$/Pipfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/forms/book.py" afterPath="$PROJECT_DIR$/app/forms/book.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/book.py" afterPath="$PROJECT_DIR$/app/models/book.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/secure.py" afterPath="$PROJECT_DIR$/app/secure.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/setting.py" afterPath="$PROJECT_DIR$/app/setting.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/spider/yushu_book.py" afterPath="$PROJECT_DIR$/app/spider/yushu_book.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/404.html" afterPath="$PROJECT_DIR$/app/templates/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base.html" afterPath="$PROJECT_DIR$/app/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/book_detail.html" afterPath="$PROJECT_DIR$/app/templates/book_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/drift.html" afterPath="$PROJECT_DIR$/app/templates/drift.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/email/get_gift.html" afterPath="$PROJECT_DIR$/app/templates/email/get_gift.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/email/reset_password.html" afterPath="$PROJECT_DIR$/app/templates/email/reset_password.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/email/satisify_wish.html" afterPath="$PROJECT_DIR$/app/templates/email/satisify_wish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/my_gifts.html" afterPath="$PROJECT_DIR$/app/templates/my_gifts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/my_wish.html" afterPath="$PROJECT_DIR$/app/templates/my_wish.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view_models/books.py" afterPath="$PROJECT_DIR$/app/view_models/books.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/__init__.py" afterPath="$PROJECT_DIR$/app/web/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/auth.py" afterPath="$PROJECT_DIR$/app/web/auth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/book.py" afterPath="$PROJECT_DIR$/app/web/book.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/drift.py" afterPath="$PROJECT_DIR$/app/web/drift.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/gift.py" afterPath="$PROJECT_DIR$/app/web/gift.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/main.py" afterPath="$PROJECT_DIR$/app/web/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/wish.py" afterPath="$PROJECT_DIR$/app/web/wish.py" />
-    </list>
+    <list default="true" id="ef7c02c6-fe84-4fbd-ad77-c85cf4c3d306" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +219,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="294" />
     <option name="y" value="13" />
     <option name="width" value="1030" />
@@ -447,7 +421,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1722561" sideWeight="0.49429038" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -457,7 +431,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6405694" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.50570965" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4568528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

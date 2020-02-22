@@ -4,3 +4,7 @@
 # 不涉及到机密配置，生产和开发环境都一样的配置，可上传至git
 
 PER_PAGE = 15
+
+BEANS_UPLOAD_ONE_BOOK = 0.5
+
+RECENT_BOOK_COUNT = 30

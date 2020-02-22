@@ -10,6 +10,8 @@ wtforms = "*"
 flask-sqlalchemy = {index = "http://pypi.douban.com/simple/",version = "*"}
 flask-sqlchemy = "*"
 sqlchemy = "*"
+flask-login = "*"
+flask-mail = "*"
 
 [requires]
 python_version = "3.6"

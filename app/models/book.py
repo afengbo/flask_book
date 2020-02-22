@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 # Date: '2020/02/11 15:43'
 from sqlalchemy import Column, Integer, String
-from flask_sqlalchemy import SQLAlchemy
 
-db = SQLAlchemy()
+from app.models.base import db
 
 
 class Book(db.Model):

@@ -54,7 +54,7 @@
         </div>
     </div>
     <div style="margin-top:30px;" class="row">
-        {% if not has_in_gifts and not has_in_wishes %}
+        {% if not has_gifts and not has_wishes %}
             <div class="col-md-1">
                 <a class="btn btn-outline"
                    href="#modal">
@@ -67,7 +67,7 @@
                     加入到心愿清单
                 </a>
             </div>
-        {% elif has_in_wishes %}
+        {% elif has_wishes %}
             <div class="col-md-3">
                 <span class="bg-info">已添加至心愿清单</span>
             </div>
@@ -85,7 +85,7 @@
             <p class="description-font">{{ book.summary }}</p>
         </div>
     </div>
-    {% if gifts.total!= 0 and not has_in_gifts %}
+    {% if gifts.total!= 0 and not has_gifts %}
         <div style="margin-top:30px;" class="row">
             <div class="col-md-3"><span class="description-title">向他们请求此书</span></div>
         </div>
@@ -105,7 +105,7 @@
             </div>
         {% endfor %}
     {% endif %}
-    {% if wishes.total != 0 and has_in_gifts %}
+    {% if wishes.total != 0 and has_gifts %}
         <div style="margin-top:30px;" class="row">
             <div class="col-md-3"><span class="description-title">向他们赠送此书</span></div>
         </div>

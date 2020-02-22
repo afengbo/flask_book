@@ -6,3 +6,13 @@
 DEBUG = True
 SQLALCHEMY_DATABASE_URI = 'mysql+cymysql://root:111111@localhost:3306/yushu'
 SECRET_KEY = 'QAZPLMXCVBN'
+
+# Email 配置
+MAIL_SERVER = 'smtp.qq.com'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USE_TSL = False
+MAIL_USERNAME = '609788423@qq.com'
+MAIL_PASSWORD = 'etmijztrjdsdbfda'
+MAIL_SUBJECT_PREFIX = '[鱼书] '
+# MAIL_SENDER = '鱼书 <hello@yushu.im>'
